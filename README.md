@@ -5,6 +5,7 @@ This is a simple Java project where users can report and manage everyday civic i
 
 I built this project to practice Java, OOP concepts, and basic data structures like ArrayList while working on something practical and real-world.
 
+
 ## Features
 
 * Add new issues
