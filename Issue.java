@@ -1,6 +1,7 @@
 public class Issue {
-    String title;
-    String location;
+   String title;
+String description;
+String location;
     boolean resolved;
 
     public Issue(String title, String location) {
